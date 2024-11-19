@@ -13,6 +13,7 @@ HashiCorp Associate Certification exams consists of multiple choice, multiple an
 ![Screenshot_3](./images/Screenshot_3.png)
 ![Screenshot_4](./images/Screenshot_4.png)
 ![Screenshot_5](./images/Screenshot_5.png)
+(sagar: i think answer will be false because Terraform has detailed logs that you can enable by setting the TF_LOG environment variable to any value. Enabling this setting causes detailed logs to appear on stderr)
 ![Screenshot_6](./images/Screenshot_6.png)
 ![Screenshot_7](./images/Screenshot_7.png)
 ![Screenshot_8](./images/Screenshot_8.png)
